@@ -1,4 +1,4 @@
-# emu8086 Temperature Control
+# emu8086 and Proteus Temperature Control
 
 In this project, It can be controlled the temperature on any room-place using with emulator 8086. (using Assembly Language and Proteus)
 . In ***[23-32]*** degrees are the control fan motor doesn't working.
