@@ -1,4 +1,4 @@
-# emu8086 Temperature Calculation and Control
+# emu8086 Temperature Control
 
 In this project, It can be controlled the temperature on any room-place using with emulator 8086. (using Assembly Language)
 . In ***[23-32]*** degrees are the control fan motor doesn't working.
