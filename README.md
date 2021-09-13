@@ -46,7 +46,7 @@ https://drive.google.com/file/d/11QLuVCG1ewLyfp19VEWnpBzKTZ1a-hVj/view?usp=shari
 Clone the project
 
 ```bash
-  git clone https://github.com/egemengulpinar/emu8086-Temperature-Calculation.git
+  git clone https://github.com/egemengulpinar/emu8086-Temperature-Control.git
 ```
 
 *Follow the ***explanation video***, then select same option and setting to execute project.*
