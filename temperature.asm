@@ -1,7 +1,3 @@
-                                                           
-
-           ;;HAKKI EGEMEN GULPINAR 17-155-014 TEMPERATURE CONTROL PROJECT 8086
-
 org 100h             
 CONTROL EQU 8006H    
 A	EQU 0080H        
